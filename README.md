@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mahmoud
 ================================================================================================================================
 
-Founder Of VahaNet | Building Vavo, an AI-powered Sales Automation SaaS | Product Development & AI-Engineering
+Founder of VahaNet | Building Vavo, an AI-powered Sales Automation SaaS | Product Development & AI-Engineering
 --------------------------------------------------------------------------------------------------------------
 
 I'm the founder of VahaNet, a technology venture focused on building AI-powered software solutions.
